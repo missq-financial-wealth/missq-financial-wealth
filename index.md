@@ -3,13 +3,16 @@
 layout: home
 
 hero:
-  name: "首頁網站標題"
+  name: "財女MissQ"
   text: "首頁網站文字"
   tagline: 網站的獨特價值主張
   actions:
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
     - theme: alt
       text: API Examples
       link: /api-examples
