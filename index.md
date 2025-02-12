@@ -11,7 +11,7 @@ hero:
       text: 頁籤1
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 頁籤2
       link: /api-examples
     - theme: alt
       text: API Examples
